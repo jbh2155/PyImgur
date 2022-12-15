@@ -48,7 +48,7 @@ from pyimgur import request  # NOQA
 
 __version__ = '0.5.3'
 
-MASHAPE_BASE = "https://imgur-apiv3.p.mashape.com"
+MASHAPE_BASE = "https://imgur-apiv3.p.rapidapi.com/"
 IMGUR_BASE = "https://api.imgur.com"
 
 AUTHORIZE_URL = ("{}/oauth2/authorize?"
